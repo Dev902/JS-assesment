@@ -45,9 +45,9 @@ function getTotalSupply() {
 }
 
 // call your functions below this line
-mintNFT("Rizul", 21, "male", true)
-mintNFT("Sneha", 20, "female", true)
-mintNFT("Chris", 40, "male", false)
+mintNFT("Aditya", 21, "male", true)
+mintNFT("Ananya", 20, "female", true)
+mintNFT("Shrujan", 40, "male", false)
 
 
 listNFTs();
